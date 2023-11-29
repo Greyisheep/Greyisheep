@@ -1,6 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Greyisheep.Greyisheep" />
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Claret Ibeawuchi</h1>
 <p align="center">
   <a href="https://github.com/Greyisheep/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mechatronics+Engineer+BEng;Full+Stack+Software+Developer;Data+Scientist;MLOPs%20|%20AI%20|%20ML%20Enthusiast;Technical+Writer&center=true&width=500&height=50"></a>
