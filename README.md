@@ -74,5 +74,5 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=greyisheep" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=greyisheep&theme=highcontrast" alt="GitHub Streak" />
 </p>
