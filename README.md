@@ -15,7 +15,7 @@
 </p>
 
 - 🔭 I’m currently working on [rent predictor](https://github.com/Greyisheep/rent-predictor)
-- 🌱 I’m currently learning **data engineering with Google Cloud**
+- 🌱 I’m currently learning **[DSA](https://github.com/Greyisheep/dsa-studies), and data engineering with Google Cloud**
 - 👯 I’m looking to collaborate on **MLOps or FastAPI Projects**
 - 🤝 I’m seeking roles in **machine learning, software engineering, FastAPI development, and data engineering**
 - 📝 I regularly write articles on [dev.to](https://dev.to/greyisheepai)
