@@ -14,12 +14,12 @@
   <a href="mailto:ibeawuchiclaret@gmail.com">Gmail</a> | <a href="https://www.linkedin.com/in/claret-ibeawuchi/">LinkedIn</a>
 </p>
 
-- 🔭 I’m currently working on [rent predictor](https://github.com/Greyisheep/rent-predictor)
+- 🔭 I’m currently working on **[rent predictor](https://github.com/Greyisheep/rent-predictor)**
 - 🌱 I’m currently learning **[Data Structures and Algorithms](https://github.com/Greyisheep/dsa-studies), and data engineering on Google Cloud**
 - 👯 I’m looking to collaborate on **MLOps or FastAPI Projects**
 - 🤝 I’m seeking roles in **machine learning, software engineering, FastAPI development, and data engineering**
-- 📝 I regularly write articles on [dev.to](https://dev.to/greyisheepai)
-- 📄 Know about my experiences: [resume](https://docs.google.com/document/d/191KHte7m-SC1DY2TjjAnXImu7BoiBUlPaWJIRM25vWY/edit?usp=sharing)
+- 📝 I regularly write articles on **[dev.to](https://dev.to/greyisheepai)**
+- 📄 Know about my experiences: **[resume](https://docs.google.com/document/d/191KHte7m-SC1DY2TjjAnXImu7BoiBUlPaWJIRM25vWY/edit?usp=sharing)**
 - ⚡ Fun fact: **I enjoy problem-solving, love playing chess, and appreciate art in all forms.**
 
 ---
