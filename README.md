@@ -15,7 +15,7 @@
 </p>
 
 - 🔭 I’m currently working on **[rent predictor](https://github.com/Greyisheep/rent-predictor)**
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning **Golang**
 - 👯 I’m looking to collaborate on **Golang, MLOps and FastAPI Projects**
 - 🤝 I’m seeking roles in **machine learning, software engineering, FastAPI development, and data engineering**
 - 📝 I regularly write articles on **[dev.to](https://dev.to/greyisheepai)**
