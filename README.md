@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Data Scientist and Full-Stack Developer with expertise in FastAPI and React. Passionate about becoming an End-to-End Software Engineer, a Competitive Programmer, and a Cloud-based Machine Learning Engineer.</em>
+  <em>Data Scientist and Full-Stack Developer with expertise in Golang, FastAPI and React. Passionate about becoming an End-to-End Software Engineer, a Competitive Programmer, and a Cloud-based Machine Learning Engineer.</em>
 </p>
 
 <p align="center">
