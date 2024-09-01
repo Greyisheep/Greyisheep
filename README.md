@@ -14,7 +14,7 @@
   <a href="mailto:ibeawuchiclaret@gmail.com">Gmail</a> | <a href="https://www.linkedin.com/in/claret-ibeawuchi/">LinkedIn</a>
 </p>
 
-- 🔭 I’m currently working on **[rent predictor](https://github.com/Greyisheep/rent-predictor)**
+- 🔭 I’m currently working on **[resume ranking and summarization tool for recruiters](https://github.com/Greyisheep/resume-ranking-assessment)**
 - 🌱 I’m currently learning **Golang**
 - 👯 I’m looking to collaborate on **Golang, MLOps and FastAPI Projects**
 - 🤝 I’m seeking roles in **machine learning, software engineering, and data science**
